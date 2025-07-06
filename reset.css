@@ -1,0 +1,21 @@
+/* -------------------- reset browser settings --------------------  */
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Oxygen Mono", monospace;
+    color: var(--main-color);
+}
+
+
+
+/* -------------------- Debug --------------------  */
+
+
+/* *
+{
+    outline: 1px solid rgba(255, 0, 0, 0.250);
+    background-color: rgba(255, 0, 0, 0.250);
+} */
