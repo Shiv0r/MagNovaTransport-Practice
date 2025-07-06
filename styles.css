@@ -268,6 +268,7 @@ header a:hover
 
 #about-section
 {
+    overflow-x: hidden;
     padding: 0 1rem;
 }
 
@@ -282,6 +283,7 @@ header a:hover
 
 #about-section p
 {
+    padding-right: 7rem;
     float: left;
     display: flex;
     align-items: center;
